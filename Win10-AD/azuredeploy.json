@@ -359,8 +359,8 @@
           "vmSize": "[parameters('vmSize')]",
           "publisher": "MicrosoftWindowsDesktop",
           "offer": "Windows-10",
-          "sku": "win10-21h2-pro-gen2",
-          "version": "19044.1415.2112101107",
+          "sku": "win10-21h2-pro-g2",
+          "version": "latest",
           "extensionName": "SetupWinVM"
         }
       }
