@@ -24,10 +24,10 @@
         }
     },
   "variables": {
-    "sysmonWindowsParserPackTemplate": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/Monitoring/SysmonFullDeployment.json",
-    "sysmonLinuxParserPackTemplate": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/Monitoring/SysmonForLinuxFullDeployment.json",
-    "windowsEventParserPackTemplate": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/Monitoring/MicrosoftWindowsEventFullDeployment.json",
-    "winRPCFWLogsParserPackTemplate": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/Monitoring/winRPCFWLogs.json"
+    "sysmonWindowsParserPackTemplate": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/Monitoring/SysmonFullDeployment.json",
+    "sysmonLinuxParserPackTemplate": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/Monitoring/SysmonForLinuxFullDeployment.json",
+    "windowsEventParserPackTemplate": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/Monitoring/MicrosoftWindowsEventFullDeployment.json",
+    "winRPCFWLogsParserPackTemplate": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/Monitoring/winRPCFWLogs.json"
   },
     "resources": [
         {

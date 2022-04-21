@@ -206,8 +206,8 @@
       }
     },
 
-    "c2SetupScript": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/C2/scripts/Install-C2s.sh",
-    "dockerSetupScript": "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/C2/scripts/Install-Docker.sh",
+    "c2SetupScript": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/C2/scripts/Install-C2s.sh",
+    "dockerSetupScript": "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/C2/scripts/Install-Docker.sh",
     "vmName": "[parameters('vmName')]"
   },
   "resources": [

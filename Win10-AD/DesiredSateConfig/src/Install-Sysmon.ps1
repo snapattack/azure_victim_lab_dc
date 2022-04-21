@@ -2,7 +2,7 @@
  configuration Install-Sysmon {
     param 
     ( 
-        [string]$SysmonConfigUrl = "https://raw.githubusercontent.com/DefensiveOrigins/DO-LAB/main/Monitoring/sysmon.xml"
+        [string]$SysmonConfigUrl = "https://raw.githubusercontent.com/snapattack/azure_victim_lab_dc/initial_modifications/Monitoring/sysmon.xml"
     )
 
     Import-DscResource -ModuleName xPSDesiredStateConfiguration
